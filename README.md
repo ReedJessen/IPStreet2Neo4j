@@ -1,2 +1,4 @@
 # IPStreet2Neo4j
-## A demonstration of using to IP Street Python SDK and Neo4j to build inventor network graphs 
+## Use IP Street Python SDK and Neo4j to build inventor network graphs 
+
+An IP Street API key is required.  Contact Reed@ipstreet.com to request a trial key.
